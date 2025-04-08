@@ -13,7 +13,7 @@
 
 ## Introduction
 
-**Project Overview** | *Last Updated: January 8, 2025*  
+**Project Overview** 
 **Author**: The Boys
 
 > This application aims to revolutionize e-waste management through an intuitive mobile platform that connects users with recycling centers, enables convenient pickup scheduling, and promotes sustainable electronic device usage.
